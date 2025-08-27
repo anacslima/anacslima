@@ -10,24 +10,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anacslima&theme=monokai" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A884&height=120&section=header&text=Sobre%20Mim&fontSize=35&fontAlign=50&fontColor=ffffff" />
-</div>
+### ✨ Sobre Mim
 
 <p align="center">
-  Sou <strong>Ana Clara Lima</strong>, estudante de <strong>Desenvolvimento de Sistemas</strong> e apaixonada por tecnologia! Tenho grande interesse em <strong>Qualidade de Software</strong> (QA) e pretendo atuar futuramente nessa área.
-  Buscando sempre aprender mais sobre testes, automação e processos de garantia de qualidade.
-  <br><br>
-  <em>“A tecnologia move o mundo, mas a qualidade sustenta o futuro.”</em>
+  Sou **Ana Clara Lima**, estudante de **18 anos** apaixonada por tecnologia e focada em **Qualidade de Software (QA)** e na área **administrativa**. Meu objetivo é me aprofundar em testes, automação e garantir a excelência em todos os projetos que participo.
 </p>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A884&height=120&section=header&text=Minha%20Stack%20&fontSize=35&fontAlign=50&fontColor=ffffff" />
-</div>
+### 💻 Minha Stack Tecnológica
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -47,9 +36,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A884&height=120&section=header&text=Estatísticas&fontSize=35&fontAlign=50&fontColor=ffffff" />
-</div>
+### 📈 Estatísticas do GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacslima&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
@@ -58,13 +45,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A884&height=120&section=header&text=Contato&fontSize=35&fontAlign=50&fontColor=ffffff" />
-</div>
-
-<p align="center">
-  Sinta-se à vontade para entrar em contato:
-</p>
+### 📞 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anacslima" target="_blank">
