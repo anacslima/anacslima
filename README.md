@@ -21,7 +21,10 @@
 </div>
 
 <p align="center">
-  Sou **Ana Clara Lima**, estudante de **18 anos** apaixonada por tecnologia e focada em **Qualidade de Software (QA)** e na área **administrativa**. Meu objetivo é me aprofundar em testes, automação e garantir a excelência em todos os projetos que participo.
+  Sou <strong>Ana Clara Lima</strong>, estudante de <strong>Desenvolvimento de Sistemas</strong> e apaixonada por tecnologia! Tenho grande interesse em <strong>Qualidade de Software</strong> (QA) e pretendo atuar futuramente nessa área.<br>
+  Busco sempre aprender mais sobre testes, automação e processos de garantia de qualidade.<br>
+  <br>
+  <em>“A tecnologia move o mundo, mas a qualidade sustenta o futuro.”</em>
 </p>
 
 <br>
