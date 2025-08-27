@@ -1,15 +1,15 @@
 <h1 align="center">Bem-vindo ao meu GitHub!</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB_AQUI&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=anacslima&color=blue" alt="Profile views" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/anacslima" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/email-0077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:anacs.lima007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -19,7 +19,9 @@
 Eu sou **Ana Clara Lima**, uma estudante de **18 anos** apaixonada por tecnologia e desenvolvimento de sistemas. Atualmente, estou focada em aprimorar minhas habilidades no **Técnico em Desenvolvimento de Sistemas no SENAI**.
 </p>
 
-<h3 align="left">💻 Minha Stack Tecnológica & Aprendizados</h3>
+---
+
+### 💻 Minha Stack Tecnológica & Aprendizados
 
 <p align="left">
 Estou sempre em busca de novos desafios e conhecimentos, expandindo minha experiência com as seguintes tecnologias:
@@ -39,7 +41,9 @@ Estou sempre em busca de novos desafios e conhecimentos, expandindo minha experi
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-<h3 align="left">✨ Sobre Mim</h3>
+---
+
+### ✨ Sobre Mim
 
 <ul>
   <li>Sempre em busca de novos conhecimentos e desafios no mundo da programação.</li>
@@ -47,3 +51,17 @@ Estou sempre em busca de novos desafios e conhecimentos, expandindo minha experi
   <li>Explorando diferentes áreas do desenvolvimento para me tornar uma programadora mais completa e versátil.</li>
   <li>Forte interesse em **desenvolvimento backend** e arquitetura de software.</li>
 </ul>
+
+---
+
+### 🚀 Projetos em Destaque
+
+Você pode encontrar aqui no meu perfil alguns dos projetos que estou desenvolvendo durante o curso e em meu tempo livre. Sinta-se à vontade para explorar, dar feedback e colaborar!
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacslima&layout=compact&hide_title=true&langs_count=10&theme=dracula" alt="Estatísticas de Linguagens do GitHub" />
+</p>
