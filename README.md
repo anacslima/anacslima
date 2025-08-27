@@ -10,31 +10,23 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anacslima&theme=monokai" />
 </div>
 
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30">
-</div>
-<br>
+---
 
-<div align="center">
-  ### ✨ Sobre Mim
+<div align="center" style="margin-bottom: 10px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A884&height=120&section=header&text=Sobre%20Mim&fontSize=35&fontAlign=50&fontColor=ffffff" />
 </div>
 
 <p align="center">
-  Sou <strong>Ana Clara Lima</strong>, estudante de <strong>Desenvolvimento de Sistemas</strong> e apaixonada por tecnologia! Tenho grande interesse em <strong>Qualidade de Software</strong> (QA) e pretendo atuar futuramente nessa área.<br>
+  Sou **Ana Clara Lima**, estudante de **Desenvolvimento de Sistemas** e apaixonada por tecnologia! Tenho grande interesse em **Qualidade de Software** (QA) e pretendo atuar futuramente nessa área.<br>
   Busco sempre aprender mais sobre testes, automação e processos de garantia de qualidade.<br>
   <br>
   <em>“A tecnologia move o mundo, mas a qualidade sustenta o futuro.”</em>
 </p>
 
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30">
-</div>
-<br>
+---
 
-<div align="center">
-  ### 💻 Minha Stack Tecnológica
+<div align="center" style="margin-bottom: 10px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A884&height=120&section=header&text=Minha%20Stack%20&fontSize=35&fontAlign=50&fontColor=ffffff" />
 </div>
 
 <p align="center">
@@ -48,35 +40,28 @@
   <img src="https://img.shields.io/badge/CSS3-20B2AA?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-20B2AA?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-20B2AA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <br>
-  <img src="https://img.shields.io/badge/Manual%20Tests-20B2AA?style=for-the-badge&logo=jira&logoColor=white" alt="Testes Manuais" />
-  <img src="https://img.shields.io/badge/Automation%20Testing-20B2AA?style=for-the-badge&logo=mocha&logoColor=white" alt="Testes de Automação" />
 </p>
 
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30">
-</div>
-<br>
+---
 
-<div align="center">
-  ### 📈 Estatísticas do GitHub
+<div align="center" style="margin-bottom: 10px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A884&height=120&section=header&text=Estatísticas&fontSize=35&fontAlign=50&fontColor=ffffff" />
 </div>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacslima&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacslima&layout=compact&langs_count=10&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacslima&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacslima&layout=compact&langs_count=10&theme=dracula" alt="Linguagens Mais Usadas" />
 </p>
 
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30">
-</div>
-<br>
+---
 
-<div align="center">
-  ### 📞 Contato
+<div align="center" style="margin-bottom: 10px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A884&height=120&section=header&text=Contato&fontSize=35&fontAlign=50&fontColor=ffffff" />
 </div>
+
+<p align="center">
+  Sinta-se à vontade para entrar em contato:
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anacslima" target="_blank">
