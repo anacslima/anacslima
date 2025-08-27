@@ -1,11 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00A884&center=true&vCenter=true&width=750&lines=Olá%2C+eu+sou+Ana+Clara+Lima!;Desenvolvimento+de+Sistemas+%7C+Futura+QA;Bem-vindo(a)+ao+meu+GitHub+%F0%9F%91%8B" alt="Banner animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00A884&center=true&vCenter=true&width=750&lines=Olá%2C+eu+sou+Ana+Clara+Lima!;Desenvolvimento+de+Sistemas+e+Qualidade+de+Software;Seja+bem-vindo(a)+ao+meu+perfil+no+GitHub!" alt="Banner animado" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anacslima&color=00A884" alt="Visualizações no Perfil" />
 </p>
-
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anacslima&theme=monokai" />
