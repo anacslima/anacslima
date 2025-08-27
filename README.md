@@ -18,7 +18,7 @@
 <h2 align="center">Olá! 👋 Bem-vindo ao meu perfil!</h2>
 
 <p align="center">
-Eu sou **Ana Clara Lima**, uma estudante de **18 anos** apaixonada por tecnologia e desenvolvimento de sistemas. Atualmente, estou focada em aprimorar minhas habilidades no **Técnico em Desenvolvimento de Sistemas no SENAI**.
+Eu sou *Ana Clara Lima*, uma estudante de **18 anos** apaixonada por tecnologia e desenvolvimento de sistemas. Atualmente, estou focada em aprimorar minhas habilidades no **Técnico em Desenvolvimento de Sistemas no SENAI**.
 </p>
 
 ---
