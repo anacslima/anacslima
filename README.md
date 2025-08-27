@@ -2,19 +2,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Tenho+18+anos;Aluno+de+DS+no+SENAI;Buscando+evoluir+como+programador&color=00BFFF" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=anacslima&label=Visualiza%C3%A7%C3%B5es&color=0E5E6F&style=flat" alt="profile-views" />
-</p>
+</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anacslima&theme=monokai" />
 </div>
+
+---
 
 ### ✨ Sobre Mim
 
 <p align="center">
   Sou **Ana Clara Lima**, estudante de **18 anos** apaixonada por tecnologia e focada em **Qualidade de Software (QA)** e na área **administrativa**. Meu objetivo é me aprofundar em testes, automação e garantir a excelência em todos os projetos que participo.
 </p>
+
+---
 
 ### 💻 Minha Stack Tecnológica
 
