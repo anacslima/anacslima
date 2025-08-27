@@ -13,6 +13,8 @@
   </a>
 </p>
 
+---
+
 <h2 align="center">Olá! 👋 Bem-vindo ao meu perfil!</h2>
 
 <p align="center">
