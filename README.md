@@ -6,14 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=anacslima&color=00A884" alt="Visualizações no Perfil" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anacslima" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:anacs.lima007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anacslima&theme=monokai" />
