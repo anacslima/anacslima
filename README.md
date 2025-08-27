@@ -1,7 +1,8 @@
 <h1 align="center">Bem-vindo(a) ao meu GitHub! 👋</h1>
 
+<!-- Banner animado com informações rotativas -->
 <p align="center">
-  <img src="https://via.placeholder.com/600x150?text=Sua+Animacao+AQUI!+Ana+Clara,+18+anos,+QA+e+Adm." alt="Banner Animado: Ana Clara Lima, 18 anos, QA e Administrativa" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Ana+Clara+Lima;18+anos;Qualidade+de+Software+(QA);Administra%C3%A7%C3%A3o;Estudante+de+tecnologia;Bem-vindo(a)+ao+meu+GitHub!" alt="Banner Animado" />
 </p>
 
 <p align="center">
@@ -26,11 +27,11 @@
 ### 🚀 Sobre Mim
 
 <p align="left">
-  Sou **Ana Clara Lima**, uma estudante de **18 anos** apaixonada por tecnologia e desenvolvimento de sistemas. Tenho um interesse especial em **Qualidade de Software (QA)** e na área **administrativa**, buscando garantir a excelência nos projetos. Atualmente, aprimoro minhas habilidades no curso **Técnico em Desenvolvimento de Sistemas no SENAI**.
+  Sou <strong>Ana Clara Lima</strong>, uma estudante de <strong>18 anos</strong> apaixonada por tecnologia e desenvolvimento de sistemas. Tenho um interesse especial em <strong>Qualidade de Software (QA)</strong> e na área <strong>administrativa</strong>.
 </p>
 
 <p align="left">
-  Estou sempre em busca de **novos desafios e oportunidades** para me aprofundar em testes e processos de gestão. Meu objetivo é contribuir com soluções que não apenas funcionem, mas que também sejam **robustas, confiáveis e bem planejadas**.
+  Estou sempre em busca de <strong>novos desafios e oportunidades</strong> para me aprofundar em testes e processos de gestão. Meu objetivo é contribuir com soluções que não apenas funcionem, mas que também entreguem valor e qualidade para os usuários.
 </p>
 
 ---
