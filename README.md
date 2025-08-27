@@ -21,13 +21,9 @@
 
 ### 🚀 Sobre Mim
 
-<p align="left">
-  Sou **Ana Clara Lima**, uma estudante de **18 anos** focada em **desenvolvimento de sistemas**, com especial interesse em **Backend**. Atualmente, aprimoro minhas habilidades no curso **Técnico em Desenvolvimento de Sistemas no SENAI**.
-</p>
+Sou **Ana Clara Lima**, uma estudante de **18 anos** focada em **desenvolvimento de sistemas**, com especial interesse em **Backend**. Atualmente, aprimoro minhas habilidades no curso **Técnico em Desenvolvimento de Sistemas no SENAI**.
 
-<p align="left">
-  Sempre em busca de **novos desafios** e oportunidades, com o objetivo de construir **soluções que fazem a diferença** e contribuir com projetos inovadores.
-</p>
+Sempre em busca de **novos desafios e oportunidades**, com o objetivo de construir **soluções que fazem a diferença** e contribuir com projetos inovadores.
 
 ---
 
