@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Tenho+18+anos;Aluno+de+DS+no+SENAI;Buscando+evoluir+como+programador&color=00BFFF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Tenho+18+anos;Aluno+de+DS+no+SENAI;Buscando+evoluir+como+programador" alt="Typing SVG" />
 </p>
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=anacslima&label=Visualiza%C3%A7%C3%B5es&color=0E5E6F&style=flat" alt="profile-views" />
-</div>
+</p>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anacslima&theme=monokai" />
@@ -12,15 +12,24 @@
 
 ---
 
-### ✨ Sobre Mim
+<div align="center">
+  ### Sobre Mim
+</div>
 
 <p align="center">
-  Sou **Ana Clara Lima**, estudante de **18 anos** apaixonada por tecnologia e focada em **Qualidade de Software (QA)** e na área **administrativa**. Meu objetivo é me aprofundar em testes, automação e garantir a excelência em todos os projetos que participo.
+  Sou **Ana Clara Lima**, estudante de **Desenvolvimento de Sistemas** e apaixonada por tecnologia! Tenho grande interesse em **Qualidade de Software** (QA) e pretendo atuar futuramente nessa área.
+  <br>
+  Busco sempre aprender mais sobre testes, automação e processos de garantia de qualidade.
+  <br>
+  <br>
+  <em>“A tecnologia move o mundo, mas a qualidade sustenta o futuro.”</em>
 </p>
 
 ---
 
-### 💻 Minha Stack Tecnológica
+<div align="center">
+  ### Minha Stack
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -33,14 +42,13 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <br>
-  <img src="https://img.shields.io/badge/Manual%20Tests-32CD32?style=for-the-badge&logo=jira&logoColor=white" alt="Testes Manuais" />
-  <img src="https://img.shields.io/badge/Automation%20Testing-FFA500?style=for-the-badge&logo=mocha&logoColor=white" alt="Testes de Automação" />
 </p>
 
 ---
 
-### 📈 Estatísticas do GitHub
+<div align="center">
+  ### Estatísticas
+</div>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacslima&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
@@ -49,7 +57,13 @@
 
 ---
 
-### 📞 Contato
+<div align="center">
+  ### Contato
+</div>
+
+<p align="center">
+  Sinta-se à vontade para entrar em contato:
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anacslima" target="_blank">
