@@ -1,12 +1,9 @@
-<h1 align="center">Bem-vindo(a) ao meu GitHub! 👋</h1>
-
-<!-- Banner animado com informações rotativas -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Ana+Clara+Lima;18+anos;Qualidade+de+Software+(QA);Administra%C3%A7%C3%A3o;Estudante+de+tecnologia;Bem-vindo(a)+ao+meu+GitHub!" alt="Banner Animado" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00A884&center=true&vCenter=true&width=750&lines=Olá%2C+eu+sou+Ana+Clara+Lima!;Desenvolvimento+de+Sistemas+%7C+Futura+QA;Bem-vindo(a)+ao+meu+GitHub+%F0%9F%91%8B" alt="Banner animado" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anacslima&color=blue" alt="Visualizações no Perfil" />
+  <img src="https://komarev.com/ghpvc/?username=anacslima&color=00A884" alt="Visualizações no Perfil" />
 </p>
 
 <p align="center">
@@ -24,19 +21,22 @@
 
 ---
 
-### 🚀 Sobre Mim
+<div align="center" style="margin-bottom: 10px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A884&height=120&section=header&text=Sobre%20Mim&fontSize=35&fontAlign=50&fontColor=ffffff" />
+</div>
 
-<p align="left">
-  Sou <strong>Ana Clara Lima</strong>, uma estudante de <strong>18 anos</strong> apaixonada por tecnologia e desenvolvimento de sistemas. Tenho um interesse especial em <strong>Qualidade de Software (QA)</strong> e na área <strong>administrativa</strong>.
-</p>
-
-<p align="left">
-  Estou sempre em busca de <strong>novos desafios e oportunidades</strong> para me aprofundar em testes e processos de gestão. Meu objetivo é contribuir com soluções que não apenas funcionem, mas que também entreguem valor e qualidade para os usuários.
+<p align="center">
+  Sou <strong>Ana Clara Lima</strong>, estudante de <strong>Desenvolvimento de Sistemas</strong> e apaixonada por tecnologia! Tenho grande interesse em <strong>Qualidade de Software</strong> (QA) e pretendo atuar futuramente nessa área.<br>
+  Busco sempre aprender mais sobre testes, automação e processos de garantia de qualidade.<br>
+  <br>
+  <em>“A tecnologia move o mundo, mas a qualidade sustenta o futuro.”</em>
 </p>
 
 ---
 
-### 💻 Minha Stack Tecnológica & Aprendizados
+<div align="center" style="margin-bottom: 10px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A884&height=120&section=header&text=Minha%20Stack%20&fontSize=35&fontAlign=50&fontColor=ffffff" />
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -53,7 +53,9 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
+<div align="center" style="margin-bottom: 10px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A884&height=120&section=header&text=Estatísticas&fontSize=35&fontAlign=50&fontColor=ffffff" />
+</div>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacslima&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
@@ -62,10 +64,12 @@
 
 ---
 
-### 📞 Contato
+<div align="center" style="margin-bottom: 10px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A884&height=120&section=header&text=Contato&fontSize=35&fontAlign=50&fontColor=ffffff" />
+</div>
 
 <p align="center">
-  Sinta-se à vontade para entrar em contato através de qualquer uma das plataformas abaixo:
+  Sinta-se à vontade para entrar em contato:
 </p>
 
 <p align="center">
