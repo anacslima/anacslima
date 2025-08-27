@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo ao meu GitHub!</h1>
+<h1 align="center">Tenho 18 anos</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anacslima&color=blue" alt="Profile views" />
@@ -18,7 +18,7 @@
 <h2 align="center">Olá! 👋 Bem-vindo ao meu perfil!</h2>
 
 <p align="center">
-Eu sou *Ana Clara Lima*, uma estudante de **18 anos** apaixonada por tecnologia e desenvolvimento de sistemas. Atualmente, estou focada em aprimorar minhas habilidades no **Técnico em Desenvolvimento de Sistemas no SENAI**.
+Eu sou **Ana Clara Lima**, uma estudante apaixonada por tecnologia e desenvolvimento de sistemas. Atualmente, estou focada em aprimorar minhas habilidades no **Técnico em Desenvolvimento de Sistemas no SENAI**.
 </p>
 
 ---
@@ -48,10 +48,10 @@ Estou sempre em busca de novos desafios e conhecimentos, expandindo minha experi
 ### ✨ Sobre Mim
 
 <ul>
-  <li>Sempre em busca de novos conhecimentos e desafios no mundo da programação.</li>
-  <li>Focada em construir soluções que realmente fazem a diferença.</li>
-  <li>Explorando diferentes áreas do desenvolvimento para me tornar uma programadora mais completa e versátil.</li>
-  <li>Forte interesse em **desenvolvimento backend** e arquitetura de software.</li>
+  <li>Sempre em busca de **novos conhecimentos e desafios** no mundo da programação.</li>
+  <li>Focada em construir **soluções que realmente fazem a diferença**.</li>
+  <li>Explorando diferentes áreas do desenvolvimento para me tornar uma programadora mais **completa e versátil**.</li>
+  <li>Forte interesse em **desenvolvimento back-end** e arquitetura de software.</li>
 </ul>
 
 ---
