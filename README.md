@@ -1,16 +1,7 @@
-<h1 align="center">Tenho 18 anos</h1>
+<h1 align="center">Bem-vindo ao meu GitHub!</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anacslima&color=blue" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anacslima" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:anacs.lima007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -18,7 +9,7 @@
 <h2 align="center">Olá! 👋 Bem-vindo ao meu perfil!</h2>
 
 <p align="center">
-Eu sou **Ana**, uma estudante apaixonada por tecnologia e desenvolvimento de sistemas. Atualmente, estou focada em aprimorar minhas habilidades no **Técnico em Desenvolvimento de Sistemas no SENAI**.
+Eu sou **Ana Clara Lima**, uma estudante de **18 anos** apaixonada por tecnologia e desenvolvimento de sistemas. Atualmente, estou focada em aprimorar minhas habilidades no **Técnico em Desenvolvimento de Sistemas no SENAI**.
 </p>
 
 ---
@@ -45,18 +36,23 @@ Estou sempre em busca de novos desafios e conhecimentos, expandindo minha experi
 
 ---
 
-### ✨ Sobre Mim
+### 🚀 Sobre Mim
 
-<ul>
-  <li>Sempre em busca de **novos conhecimentos e desafios** no mundo da programação.</li>
-  <li>Focada em construir **soluções que realmente fazem a diferença**.</li>
-  <li>Explorando diferentes áreas do desenvolvimento para me tornar uma programadora mais **completa e versátil**.</li>
-  <li>Forte interesse em **desenvolvimento back-end** e arquitetura de software.</li>
-</ul>
+<p>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/1.svg" alt="ícone de foguete" width="20" /> Sou **Ana Clara Lima**, uma estudante de **18 anos** apaixonada por tecnologia e desenvolvimento de sistemas, com foco em **Backend**.
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/2.svg" alt="ícone de objetivo" width="20" /> Meu objetivo é me consolidar como desenvolvedora, aplicando e aprimorando meus conhecimentos em **Java** e **Spring Boot** em projetos inovadores. Atualmente, estou focada em aprimorar minhas habilidades no **Técnico em Desenvolvimento de Sistemas no SENAI**.
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/3.svg" alt="ícone de busca" width="20" /> Estou sempre em busca de novos desafios e oportunidades para crescer e contribuir com soluções tecnológicas de impacto!
+</p>
 
 ---
 
-### 🚀 Projetos em Destaque
+### ✨ Projetos em Destaque
 
 Você pode encontrar aqui no meu perfil alguns dos projetos que estou desenvolvendo durante o curso e em meu tempo livre. Sinta-se à vontade para explorar, dar feedback e colaborar!
 
@@ -65,5 +61,33 @@ Você pode encontrar aqui no meu perfil alguns dos projetos que estou desenvolve
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacslima&layout=compact&hide_title=true&langs_count=10&theme=dracula" alt="Estatísticas de Linguagens do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anacslima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacslima&layout=compact&hide_title=true&langs_count=10&theme=dracula" alt="Estatísticas de Linguagens do GitHub" />
+</p>
+
+---
+
+### 📞 Contato
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/4.svg" alt="ícone de telefone" width="20" /> Fale comigo!
+</p>
+
+<p align="center">
+Sinta-se à vontade para entrar em contato através de qualquer uma das plataformas abaixo:
+</p>
+
+<p align="center">
+  <a href="https://wa.me/SEU_NUMERO_DE_CELULAR_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/SEU_USUARIO_INSTAGRAM_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:anacs.lima007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
