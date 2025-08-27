@@ -1,6 +1,10 @@
 <h1 align="center">Bem-vindo(a) ao meu GitHub! 👋</h1>
 
 <p align="center">
+  <img src="https://via.placeholder.com/600x150?text=Sua+Animacao+AQUI!+Ana+Clara,+18+anos,+QA+e+Adm." alt="Banner Animado: Ana Clara Lima, 18 anos, QA e Administrativa" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=anacslima&color=blue" alt="Visualizações no Perfil" />
 </p>
 
@@ -21,9 +25,13 @@
 
 ### 🚀 Sobre Mim
 
-Sou **Ana Clara Lima**, uma estudante de **18 anos** apaixonada por tecnologia e desenvolvimento de sistemas. Tenho um interesse especial em **Qualidade de Software (QA)** e na área **administrativa**, buscando garantir a excelência nos projetos. Atualmente, aprimoro minhas habilidades no curso **Técnico em Desenvolvimento de Sistemas no SENAI**.
+<p align="left">
+  Sou **Ana Clara Lima**, uma estudante de **18 anos** apaixonada por tecnologia e desenvolvimento de sistemas. Tenho um interesse especial em **Qualidade de Software (QA)** e na área **administrativa**, buscando garantir a excelência nos projetos. Atualmente, aprimoro minhas habilidades no curso **Técnico em Desenvolvimento de Sistemas no SENAI**.
+</p>
 
-Estou sempre em busca de **novos desafios e oportunidades** para me aprofundar em testes e processos de gestão. Meu objetivo é contribuir com soluções que não apenas funcionem, mas que também sejam **robustas, confiáveis e bem planejadas**.
+<p align="left">
+  Estou sempre em busca de **novos desafios e oportunidades** para me aprofundar em testes e processos de gestão. Meu objetivo é contribuir com soluções que não apenas funcionem, mas que também sejam **robustas, confiáveis e bem planejadas**.
+</p>
 
 ---
 
@@ -60,6 +68,9 @@ Estou sempre em busca de **novos desafios e oportunidades** para me aprofundar e
 </p>
 
 <p align="center">
+  <a href="https://wa.me/SEU_NUMERO_DE_CELULAR_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/anacslima" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
