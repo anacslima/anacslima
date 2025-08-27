@@ -21,11 +21,9 @@
 
 ### 🚀 Sobre Mim
 
-<p align="left">
+<p> 
   Sou **Ana Clara Lima**, uma estudante de **18 anos** apaixonada por tecnologia e desenvolvimento de sistemas. Tenho um interesse especial em **Qualidade de Software (QA)** e na área **administrativa**, buscando garantir a excelência nos projetos. Atualmente, aprimoro minhas habilidades no curso **Técnico em Desenvolvimento de Sistemas no SENAI**.
-</p>
-
-<p align="left">
+<p>
   Estou sempre em busca de **novos desafios** e oportunidades para me aprofundar em testes e processos de gestão. Meu objetivo é contribuir com soluções que não apenas funcionem, mas que também sejam **robustas, confiáveis e bem planejadas**.
 </p>
 
