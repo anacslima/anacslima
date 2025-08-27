@@ -1,24 +1,27 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00A884&center=true&vCenter=true&width=750&lines=Olá%2C+eu+sou+Ana+Clara+Lima!;Desenvolvimento+de+Sistemas+e+Qualidade+de+Software;Seja+bem-vindo(a)+ao+meu+perfil+no+GitHub!" alt="Banner animado" />
-</h1>
+<!-- README.md -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anacslima&color=00A884" alt="Visualizações no Perfil" />
+  <!-- Banner animado melhorado sem fundo verde -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FA1E5C&center=true&vCenter=true&width=800&lines=Olá%2C+eu+sou+Ana+Clara+Lima!;Desenvolvedora+de+Sistemas+e+Quality+Assurance;Apaixonada+por+Tecnologia+e+Inovação" alt="Banner animado" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anacslima&color=fa1e5c" alt="Visualizações no Perfil" />
 </p>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anacslima&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anacslima&theme=github_dark" />
 </div>
 
 ---
 
 <div align="center" style="margin-bottom: 10px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A884&height=120&section=header&text=Sobre%20Mim&fontSize=35&fontAlign=50&fontColor=ffffff" />
+  <!-- Banner visual limpo, sem fundo verde -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fa1e5c&height=120&section=header&text=Sobre%20Mim&fontSize=35&fontAlign=50&fontColor=ffffff" />
 </div>
 
 <p align="center">
-  Sou <strong>Ana Clara Lima</strong>, estudante de <strong>Desenvolvimento de Sistemas</strong> e apaixonada por tecnologia! Tenho grande interesse em <strong>Qualidade de Software</strong> (QA) e pretendo atuar futuramente nessa área.<br>
-  Busco sempre aprender mais sobre testes, automação e processos de garantia de qualidade.<br>
+  Sou <strong>Ana Clara Lima</strong>, estudante de <strong>Desenvolvimento de Sistemas</strong> e apaixonada por tecnologia! Tenho grande interesse em <strong>Qualidade de Software</strong> (QA) e procuro sempre aprender mais sobre testes, automação e processos de garantia de qualidade.<br>
   <br>
   <em>“A tecnologia move o mundo, mas a qualidade sustenta o futuro.”</em>
 </p>
@@ -26,7 +29,7 @@
 ---
 
 <div align="center" style="margin-bottom: 10px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A884&height=120&section=header&text=Minha%20Stack%20&fontSize=35&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fa1e5c&height=120&section=header&text=Minha%20Stack&fontSize=35&fontAlign=50&fontColor=ffffff" />
 </div>
 
 <p align="center">
@@ -45,7 +48,7 @@
 ---
 
 <div align="center" style="margin-bottom: 10px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A884&height=120&section=header&text=Estatísticas&fontSize=35&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fa1e5c&height=120&section=header&text=Estatísticas&fontSize=35&fontAlign=50&fontColor=ffffff" />
 </div>
 
 <p align="center">
@@ -56,7 +59,7 @@
 ---
 
 <div align="center" style="margin-bottom: 10px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A884&height=120&section=header&text=Contato&fontSize=35&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fa1e5c&height=120&section=header&text=Contato&fontSize=35&fontAlign=50&fontColor=ffffff" />
 </div>
 
 <p align="center">
