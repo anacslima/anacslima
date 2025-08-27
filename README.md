@@ -1,6 +1,6 @@
 <p align="center">
-  <!-- Banner animado de boas-vindas -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=FA1E5C&center=true&vCenter=true&width=700&lines=Seja+bem-vindo(a)+ao+meu+GitHub!;Eu+sou+Ana+Clara+Lima;Desenvolvedora+de+Sistemas+e+QA;23+anos+apaixonada+por+tecnologia+e+inovação" alt="Banner animado de boas-vindas" />
+  <!-- GIF animado de boas-vindas -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3d6MWVxczV0dTNvY2U2dDVtZ2ZtZGE5b2w5dDVnYm9yZ2V0eGx6bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohc0Ulr9F6F1UpzAA/giphy.gif" alt="Bem-vindo(a)!" width="400" />
 </p>
 
 <div align="center" style="margin-bottom: 18px;">
@@ -63,3 +63,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/anacslima/anacslima/main/wave-footer.svg" alt="wave footer" width="100%"/>
 </p>
+
+<!-- Efeito hover nos links de contato (apenas visual, não funcional no markdown do GitHub, mas já indica intenção) -->
+<style>
+  a:hover img {
+    transform: scale(1.08) rotate(-2deg);
+    box-shadow: 0 6px 24px #fa1e5c44;
+    transition: all 0.2s;
+  }
+</style>
