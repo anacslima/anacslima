@@ -1,9 +1,9 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00A884&center=true&vCenter=true&width=750&lines=Olá%2C+eu+sou+Ana+Clara+Lima!;Desenvolvimento+de+Sistemas+%7C+Futura+QA;Bem-vindo(a)+ao+meu+GitHub+%F0%9F%91%8B" alt="Banner animado" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Tenho+18+anos;Aluno+de+DS+no+SENAI;Buscando+evoluir+como+programador" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anacslima&color=00A884" alt="Visualizações no Perfil" />
+  <img src="https://komarev.com/ghpvc/?username=anacslima&label=Visualiza%C3%A7%C3%B5es&color=0E5E6F&style=flat" alt="profile-views" />
 </p>
 
 
